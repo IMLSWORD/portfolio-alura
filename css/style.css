@@ -882,7 +882,7 @@ footer{
 
 /* media mobile */
 
- @media  (max-width: 885px) {
+ @media  (max-width: 576px) {
     body::-webkit-scrollbar{
       display: none;
     }
