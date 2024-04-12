@@ -89,7 +89,7 @@ body {
 
 .navegacion p{
     align-content: center;
-    background-image: url(/img/nombre-icono.png);
+    background-image: url(../img/nombre-icono.png);
     filter: invert(30%) sepia(14%) saturate(699%) hue-rotate(175deg) brightness(94%) contrast(94%);
     background-size: 40px;
     font-size: 25px;
@@ -142,7 +142,7 @@ body {
 
 
 .icono-descripcion{
-    background-image: url(/img/hogar.png);
+    background-image: url(../img/hogar.png);
     filter: invert(30%) sepia(14%) saturate(699%) hue-rotate(175deg) brightness(94%) contrast(94%) ;
     background-size: 20px;
     background-repeat: no-repeat;
@@ -151,7 +151,7 @@ body {
 
 
 .icono-skills{
-    background-image: url(/img/tocar.png);
+    background-image: url(../img/tocar.png);
     filter: invert(30%) sepia(14%) saturate(699%) hue-rotate(175deg) brightness(94%) contrast(94%);
     background-size: 20px;
     background-repeat: no-repeat;
@@ -159,7 +159,7 @@ body {
 }
 
 .icono-hobbies{
-    background-image: url(/img/trofeo.png);
+    background-image: url(../img/trofeo.png);
     filter: invert(30%) sepia(14%) saturate(699%) hue-rotate(175deg) brightness(94%) contrast(94%);
     background-size: 20px;
     background-repeat: no-repeat;
@@ -167,7 +167,7 @@ body {
 }
 
 .icono-formacion{
-    background-image: url(/img/lapiz.png);
+    background-image: url(../img/lapiz.png);
     filter: invert(30%) sepia(14%) saturate(699%) hue-rotate(175deg) brightness(94%) contrast(94%);
     background-size: 20px;
     background-repeat: no-repeat;
@@ -175,7 +175,7 @@ body {
 }
 
 .icono-proyectos{
-    background-image: url(/img/tarjeta-de-credito.png);
+    background-image: url(../img/tarjeta-de-credito.png);
     filter: invert(30%) sepia(14%) saturate(699%) hue-rotate(175deg) brightness(94%) contrast(94%);
     background-size: 20px;
     background-repeat: no-repeat;
@@ -183,7 +183,7 @@ body {
 }
 
 .icono-contacto{
-    background-image: url(/img/sobre.png);
+    background-image: url(../img/sobre.png);
     filter: invert(30%) sepia(14%) saturate(699%) hue-rotate(175deg) brightness(94%) contrast(94%);
     background-size: 20px;
     background-repeat: no-repeat;
@@ -198,7 +198,7 @@ body {
 
 .contenedor-intro{
     
-    background-image: url(/img/walpaper1.jpg);
+    background-image: url(../img/walpaper1.jpg);
     background-repeat: no-repeat;
     background-size: 100% 200%;
     background-clip: border-box;
@@ -276,7 +276,7 @@ body {
 
 .redes-items:nth-child(2){
     margin-top: 0px;
-    background-image: url(/img/instagram.png);
+    background-image: url(../img/instagram.png);
     filter: invert(30%) sepia(14%) saturate(699%) hue-rotate(175deg) brightness(94%) contrast(94%);
     background-size: 40px;
     background-position: center;
@@ -285,7 +285,7 @@ body {
 }
 
 .redes-items:nth-child(3){
-    background-image: url(/img/linkedin.png);
+    background-image: url(../img/linkedin.png);
     filter: invert(30%) sepia(14%) saturate(699%) hue-rotate(175deg) brightness(94%) contrast(94%);
     background-size: 40px;
     background-position: center;
@@ -293,7 +293,7 @@ body {
     padding: 30px ;
 }
 .redes-items:nth-child(4){
-    background-image: url(/img/github.png);
+    background-image: url(../img/github.png);
     filter: invert(30%) sepia(14%) saturate(699%) hue-rotate(175deg) brightness(94%) contrast(94%);
     background-size: 40px;
     background-position: center;
@@ -602,7 +602,7 @@ body {
     margin-top: 200px;
     display: flex;
     flex-direction: row;
-    background-image: url(/img/walpaper.webp);
+    background-image: url(../img/walpaper.webp);
     background-repeat: no-repeat;
     background-clip: border-box;
     background-size: 100%;
@@ -908,7 +908,7 @@ footer{
         flex-direction: column;
         justify-content: space-between;
         padding: 40px;
-        background-image: url(/img/fondomobile.webp);
+        background-image: url(../img/fondomobile.webp);
         background-repeat: no-repeat;
         background-size: 100% 100%;
         border-radius: 0 0 30px 30px ;
