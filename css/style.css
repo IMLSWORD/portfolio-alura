@@ -61,7 +61,7 @@ body {
 }
 
 .fondoblur{
-    width: 1250px;
+    width: 100%;
     height: 80px;
     background-color: #ffffff70;
     backdrop-filter: blur(0.4rem);
