@@ -80,6 +80,7 @@ body {
 
 .navegacion{
   display: flex;
+  width: 100%;
   justify-content: space-between;
   padding: 15px;
   font-size: 20px;
@@ -935,13 +936,13 @@ footer{
     }
 
     .parrafo-mobile{
-        color: var(--m-oscuro);
+        color: var(--m-medio);
         font-weight: bold;
         font-size: 20px;
         text-align: left;
         padding: 15px;
         background-color: #fff6d9be;
-        backdrop-filter: blur(0.4rem); 
+        backdrop-filter: blur(0.50rem); 
         border-radius: 15px;
     }
 
@@ -953,6 +954,7 @@ footer{
     
     .lista-nav{
         width: 100%;
+        margin: 0 auto;
         height: 60px;
         flex-direction: row;
         align-items: center;
@@ -961,15 +963,13 @@ footer{
         position: fixed;
         justify-content: center;
         overflow: none;
-        padding: 0px;
         bottom: 0;
         left: 0;
-        color: var(--m-max);
+        color: var(--m-oscuro);
         z-index: 1;
-        background-color: var(--m-oscuro);
+        background-color: #ffffead3;
+        backdrop-filter: blur(0.4rem);
         font-size: 13px;
-
-        border-top: 2px solid var(--m-medio) ;
         
     }
   
@@ -988,13 +988,13 @@ footer{
 
     .elementos-nav{
         display: block;
-        flex-direction: column;
-        padding: 15px;
+        width: auto;
         align-items: center;
         align-content: center;
-        margin: 0 auto;
-        height: 60px;
-        border-right: 2px solid #644e68;
+        align-self: center;
+        padding: 4px;
+        margin:0 auto;
+        height: auto;
 
     }
 
